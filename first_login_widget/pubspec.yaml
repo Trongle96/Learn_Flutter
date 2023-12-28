@@ -65,5 +65,7 @@ flutter:
     - folder_image/image_welcome.png
     - folder_image/image_bar.png
     - folder_image/image_iconemail.png
+    - folder_image/image_login_pass.png
+    - folder_image/image_button.png
 
 
