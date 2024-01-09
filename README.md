@@ -22,4 +22,16 @@
 
 [Link  lý thuyết](https://viblo.asia/p/tim-hieu-sau-hon-ve-datepicker-trong-flutter-gGJ59Q2p5X2).
 
+### **7. Date Picker**
+[Link youtube](https://www.youtube.com/watch?v=JK3zztXnDxs).
+
+[Link  lý thuyết](https://viblo.asia/p/tim-hieu-sau-hon-ve-datepicker-trong-flutter-gGJ59Q2p5X2).
+
+### **8. Share Preferences**
+[Link youtube](https://www.youtube.com/watch?v=JK3zztXnDxs).
+
+[Link  lý thuyết](https://medium.com/@purboyndra/how-to-save-object-to-local-storage-using-shared-preferences-in-flutter-2ec8834bc367).
+
+
+
 
