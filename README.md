@@ -17,3 +17,9 @@
 [Link youtube](https://www.youtube.com/watch?v=mXREh3S8Yw0).
 ### **6. Text Field**
 [Link  lý thuyết](https://viblo.asia/p/tim-hieu-sau-hon-ve-textfield-trong-flutter-YWOZr8BR5Q0).
+### **6. Date Picker**
+[Link youtube](https://www.youtube.com/watch?v=JK3zztXnDxs).
+
+[Link  lý thuyết](https://viblo.asia/p/tim-hieu-sau-hon-ve-datepicker-trong-flutter-gGJ59Q2p5X2).
+
+
