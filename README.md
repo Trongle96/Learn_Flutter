@@ -13,3 +13,5 @@
 [Link lý thuyết](https://viblo.asia/p/flutter-material-buttons-20-text-button-elevated-button-outlined-button-RnB5ppO75PG)
 ### **5. Callback funtion**
 [Link youtube](https://www.youtube.com/watch?v=mXREh3S8Yw0).
+### **6. Text Field**
+[Link  lý thuyết](https://viblo.asia/p/tim-hieu-sau-hon-ve-textfield-trong-flutter-YWOZr8BR5Q0).
