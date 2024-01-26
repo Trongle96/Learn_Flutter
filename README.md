@@ -35,6 +35,9 @@
 ### **9. Provider**
 [Link youtube](https://www.youtube.com/watch?v=uSljGJGSl6w).
 
+### **10. BarChart**
+[Link youtube](https://www.youtube.com/watch?v=8j6iw33bJU0&t=35s).
+
 
 
 
