@@ -38,6 +38,9 @@
 ### **10. BarChart**
 [Link youtube](https://www.youtube.com/watch?v=8j6iw33bJU0&t=35s).
 
+### **11. Slide Screen**
+[Link youtube](https://www.youtube.com/watch?v=lvjsh6MX55U).
+
 
 
 
